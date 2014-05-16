@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TnTAnimatorProject>
+  <projectInfo version="1.00">
+    <gfx_file>frioArcher.png</gfx_file>
+    <def_file>frioArcher.txt</def_file>
+    <sort_animations>-1</sort_animations>
+  </projectInfo>
+  <ANIM loop="-1" name="AMMO" speed="100" exclude="0" stoponframe="-1">
+    <FRAME XFLIP="0" YFLIP="0">ammo_arrow1.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">ammo_arrow2.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">ammo_arrow3.png</FRAME>
+  </ANIM>
+  <ANIM loop="0" name="DEAD" speed="100" exclude="0" stoponframe="1">
+    <FRAME XFLIP="0" YFLIP="0">dead1.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">dead2.png</FRAME>
+  </ANIM>
+  <ANIM loop="-1" name="EXPLOSE" speed="100" exclude="0" stoponframe="4">
+    <FRAME XFLIP="0" YFLIP="0">explosion1</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">explosion2</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">explosion3</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">explosion4</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">explosion5</FRAME>
+  </ANIM>
+  <ANIM loop="0" name="JUMP_LEFT" speed="200" exclude="0" stoponframe="6">
+    <FRAME XFLIP="-1" YFLIP="0">jump1.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">jump2.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">jump4.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">jump4.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">jump4.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">jump5.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">jump6.png</FRAME>
+  </ANIM>
+  <ANIM loop="0" name="JUMP_RIGHT" speed="200" exclude="0" stoponframe="6">
+    <FRAME XFLIP="0" YFLIP="0">jump1.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">jump2.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">jump4.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">jump4.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">jump4.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">jump5.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">jump6.png</FRAME>
+  </ANIM>
+  <ANIM loop="-1" name="SHOOT_LEFT" speed="100" exclude="0" stoponframe="4">
+    <FRAME XFLIP="-1" YFLIP="0">shoot1</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">shoot2</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">shoot3</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">shoot4</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">shoot5</FRAME>
+  </ANIM>
+  <ANIM loop="-1" name="SHOOT_RIGHT" speed="100" exclude="0" stoponframe="4">
+    <FRAME XFLIP="0" YFLIP="0">shoot1</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">shoot2</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">shoot3</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">shoot4</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">shoot5</FRAME>
+  </ANIM>
+  <ANIM loop="-1" name="STAND_LEFT" speed="110" exclude="0" stoponframe="-1">
+    <FRAME XFLIP="-1" YFLIP="0">stand1.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">stand2.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">stand3.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">stand4.png</FRAME>
+  </ANIM>
+  <ANIM loop="-1" name="STAND_RIGHT" speed="110" exclude="0" stoponframe="-1">
+    <FRAME XFLIP="0" YFLIP="0">stand1.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">stand2.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">stand3.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">stand4.png</FRAME>
+  </ANIM>
+  <ANIM loop="-1" name="WALK_LEFT" speed="110" exclude="0" stoponframe="-1">
+    <FRAME XFLIP="-1" YFLIP="0">walk1.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">walk2.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">walk3.png</FRAME>
+    <FRAME XFLIP="-1" YFLIP="0">walk4.png</FRAME>
+  </ANIM>
+  <ANIM loop="-1" name="WALK_RIGHT" speed="110" exclude="0" stoponframe="-1">
+    <FRAME XFLIP="0" YFLIP="0">walk1.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">walk2.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">walk3.png</FRAME>
+    <FRAME XFLIP="0" YFLIP="0">walk4.png</FRAME>
+  </ANIM>
+</TnTAnimatorProject>

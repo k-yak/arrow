@@ -1,0 +1,22 @@
+<project>
+ <properties autorotation="0" encryptAssets="0" fps="60" scaleMode="4" mouseToTouch="1" iosDevice="0" packageName="com.tntvpad.gregbug" logicalHeight="480" logicalWidth="320" mouseTouchOrder="0" encryptCode="0" retinaDisplay="0" touchToMouse="1" assetsOnly="0" orientation="1" architecture="1">
+  <imageScales/>
+ </properties>
+ <file source="ammo.lua"/>
+ <file source="scene.lua"/>
+ <file source="archer.lua"/>
+ <file source="FrioArcher.lua"/>
+ <file source="../dev/debugArcher.png"/>
+ <file source="../common_gfx/frioArcher.tan"/>
+ <file source="../libs/tntanimator64.lua" excludeFromExecution="1"/>
+ <file source="../libs/tntanimator32.lua" excludeFromExecution="1"/>
+ <file source="../common_gfx/frioArcher.txt"/>
+ <file source="../common_gfx/FrioArcher.png"/>
+ <file source="../libs/tntvpad64.lua" excludeFromExecution="1"/>
+ <file source="../libs/tntvpad32.lua" excludeFromExecution="1"/>
+ <file source="../common_gfx/sfondo3.png"/>
+ <file source="../common_gfx/example2_gfx.txt"/>
+ <file source="../common_gfx/example2_gfx.png"/>
+ <file source="fire.lua"/>
+ <file source="main.lua"/>
+</project>
